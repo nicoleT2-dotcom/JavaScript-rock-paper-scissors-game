@@ -1,2 +1,2 @@
 # JavaScript-rock-paper-scissors-game
- Rock Paper Scissors game early version to most recent 
+ Rock Paper Scissors game my earlier versions to oldest. 
